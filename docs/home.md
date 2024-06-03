@@ -15,3 +15,24 @@ This is my home.
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## Others
+
+If you want to learn maths, see [maths](study/math/discrete%20math.md) for further information
+
+
+
+```c title='printf.c'
+printf("Hello World!");
+```
+
+$$
+f(x) = \int_{-\infty}^\infty
+    \hat f(\xi)\,e^{2 \pi i \xi x}
+    \,d\xi
+$$
+
+??? note a
+aaa
+
+!!! bug
